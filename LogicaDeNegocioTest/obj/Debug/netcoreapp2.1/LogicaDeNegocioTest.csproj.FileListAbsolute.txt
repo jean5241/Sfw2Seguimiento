@@ -1,0 +1,14 @@
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb

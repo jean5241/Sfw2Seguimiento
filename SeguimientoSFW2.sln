@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeNegocio", "LogicaDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{619E948D-6B88-4C1A-B912-1A920ED3D5C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeNegocioTest", "LogicaDeNegocioTest\LogicaDeNegocioTest.csproj", "{B86E63AD-9F9F-4D44-8E9D-6DF63E55B01E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicaDeNegocioTest", "LogicaDeNegocioTest\LogicaDeNegocioTest.csproj", "{B86E63AD-9F9F-4D44-8E9D-6DF63E55B01E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

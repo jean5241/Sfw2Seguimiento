@@ -1,0 +1,11 @@
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\bin\Debug\LogicaDeNegocio.pdb
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.dll
+C:\Users\asus\Documents\GitHub\Sfw2Seguimiento\LogicaDeNegocio\obj\Debug\LogicaDeNegocio.pdb
